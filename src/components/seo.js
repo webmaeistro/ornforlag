@@ -82,10 +82,10 @@ function SEO({ description, lang, meta, keywords, title }) {
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `nb`,
   meta: [],
   keywords: [],
-  description: ``,
+  description: `Ørn forlag as`,
 }
 
 SEO.propTypes = {

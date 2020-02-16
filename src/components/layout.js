@@ -27,10 +27,10 @@ const Layout = props => {
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
-                <Link to={`/`}>Home</Link>
+                <Link to={`/`}>Bøkene</Link>
               </li>
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>About</Link>
+                <Link to={`/about`}>Om Ørn Forlag</Link>
               </li>
               <li className="nav-elements" role="menuitem">
                 <Link to={`/elements`}>Elements</Link>
@@ -79,13 +79,16 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
+        Veståsen 4,1362 Hosle, Norway | Tel. (+47) 909 60 404 | Email:
+        bjorn[@]ornforlag.no | Organisasjonsnr.: 994304399 | MVA Kontonr.:
+        9235.27.10220 <br></br>
+        Bygd av{" "}
         <a
-          href="https://gatsbyjs.org"
+          href="https://github.com/ornforlag"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Gatsby
+          Martin Andersen
         </a>
       </footer>
     </div>

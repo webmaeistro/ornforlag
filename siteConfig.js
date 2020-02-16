@@ -1,9 +1,10 @@
 module.exports = {
-  name: 'London',
-  shortName: 'London',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
-  prefix: '/',
-  author: 'Imed Adel',
-  twitter: 'Imed_Adel'
+  name: "Ørn Forlag",
+  shortName: "ornforlag",
+  description:
+    "Ørn forlag brer sine vide vinger over sentrale deler av norsk natur, og bærer kunnskap ut til folket gjennom fysiske såvel som digitale medier.",
+  url: "https://ornforlag.no", // Domain of your site without prefix!
+  prefix: "/",
+  author: "Bjørn Olav Tveit",
+  twitter: "bot",
 }
