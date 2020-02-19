@@ -5,8 +5,6 @@ thumbnail: ./kikk_og_bruk_320x320.jpg
 description: Bjørn Ove Høyland
 ---
 
-![Ørn forlag | Kikk og bruk](./kikk_og_bruk_320x320.jpg)
-
 ## Kikk og Bruk
 
 Korrekt oppførsel og antrekk er viktig i selskapslivet, men du kan også trenge veiledning når du skal ut og se på fugler! Enten du er fersk som et nylagt egg, eller du allerede er en flyvedyktig fugleentusiast, vil du ved å følge tipsene og rådene i denne boken løfte fuglegleden din til nye høyder.
@@ -42,16 +40,16 @@ Og du får tips om opplevelser året rundt, som:
 Bestill nå ved å sende epost til [bestilling@ornforlag.no](mailto:bestilling@ornforlag.no?subject=Bestilling av Kikk og bruk - hvordan se på fugler). Bok og faktura kommer i posten.  
 Du kan også kjøpe den i alle landets bokhandlere.
 
-## Anmeldelser
+### Anmeldelser
 
-_["NOFs landsdekkende medlemsblad Vår fuglefauna nr. 4 2014:  
-![Boka som slår klørne i deg og gir inspirasjonen vinger!](http://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)](http://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)_\*\*
+\_["NOFs landsdekkende medlemsblad Vår fuglefauna nr. 4 2014:  
+![Boka som slår klørne i deg og gir inspirasjonen vinger!](http://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)](http://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)
 
 **"Vårens store begivenhet på bokfronten" - les anmeldelse av boka her:**  
-![Vårens store begivenhet på bokfronten - anmeldelse](https://kikkogbruk.no/Anmeldelse_Kikk_og_bruk.jpg)](https://atgrims.blogspot.no/2014_05_01_archive.html)
+![Vårens store begivenhet på bokfronten - anmeldelse](https://kikkogbruk.no/Anmeldelse_Kikk_og_bruk.jpg)[Vårens store begivenhet på bokfronten - anmeldelse](https://atgrims.blogspot.no/2014_05_01_archive.html)
 
 > **_"Veldig inspirerende bok, som alle fugleinteresserte MÅ ha!"_**  
-> Rita Birkeland, fotograf
+> _Rita Birkeland, fotograf_
 
 **Se TV-reportasje med forfatter Bjørn Olav Tveit på fugletur:**  
-![Forfatteren på TV8!](http://kikkogbruk.no/Kikk_og_bruk_TV8Norge.jpg)](http://www.tv8norge.no/Video/22406/2014/05/07/Bjørn-Olav-Tveit-lever-for-å-se-på-fugler)
+![Forfatteren på TV8!](http://kikkogbruk.no/Kikk_og_bruk_TV8Norge.jpg)[Forfatteren på TV8!](http://www.tv8norge.no/Video/22406/2014/05/07/Bjørn-Olav-Tveit-lever-for-å-se-på-fugler)

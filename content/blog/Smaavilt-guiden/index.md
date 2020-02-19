@@ -5,8 +5,6 @@ thumbnail: ./smaaviltguiden_omslag.jpg
 description: Bjørn Olav Tveit
 ---
 
-![Ørn forlag | Småviltguiden - artskunnskap for jegere](./smaaviltguiden_omslag.jpg)
-
 ## Hvordan skille jaktbart fra fredet vilt
 
 Det er det viktigste en jeger må kunne. Samtidig er det kanskje også det vanskeligste, noe ikke minst erfaringer fra jegerprøvene viser. Denne boka forteller på en enkel måte hvordan du i typiske jaktsituasjoner ser forskjell på de artene du kan felle - og hvilke du må la gå. Samtidig får du mye nyttig og spennende informasjon om viltet. En god jeger kjenner sitt bytte!
@@ -40,9 +38,5 @@ Norges Jeger- og Fiskerforbunds medlemsblad **Jakt & Fiske** omtaler Småviltgui
 
 **Se Øivind Egeland trylle fram forsideillustrasjonen!**'
 
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/JF_mCf7Zyig?rel=0" width="560"></iframe>
-
 ![sommerfugler ornforlag](./egeland_ulv1c_small.jpg)  
 Øivind Egeland fra Sandnes regnes som en av Skandinavias fremste naturkunstnere.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick"> <input name="hosted_button_id" type="hidden" value="VVZ3ZFMKLQAAU"> <input alt="PayPal – en trygg og enkel betalingsmetode på nettet!" border="0" name="submit" src="https://www.paypalobjects.com/no_NO/NO/i/btn/btn_buynowCC_LG.gif" type="image"> ![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)</form>
