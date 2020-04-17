@@ -13,7 +13,10 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="om" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO
+        title="om"
+        keywords={[`utgiver`, `gatsby`, `bokforlag`, `ornforlag`]}
+      />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
@@ -57,7 +60,7 @@ const indexQuery = graphql`
       relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
     ) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
+        fluid(maxWidth: 450) {
           ...GatsbyImageSharpFluid
         }
       }

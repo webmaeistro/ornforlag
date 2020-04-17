@@ -20,8 +20,8 @@ Forord av Leif Aarvik, samlingsansvarlig for sommerfugler ved Naturhistorisk mus
 Du får boka i posten i løpet av få dager.  
 Alternativt kan du ringe eller sende sms til tlf. 911 89 016, eller send en epost til [bestilling@ornforlag.no] Da kan du få faktura med boka i posten.
 
-**[Bla i deler av boka ved å klikke her!](http://issuu.com/naturogfritid/docs/opplev_og_utforsk_sommerfugler_ekse?mode=window&embedId=1618717/2246059)**  
-**[Se forfatterens egen sommerfuglside ved å klikke her!](http://www.opplevsommerfugler.no/)**
+**[Bla i deler av boka ved å klikke her!](https://issuu.com/naturogfritid/docs/opplev_og_utforsk_sommerfugler_ekse?mode=window&embedId=1618717/2246059)**  
+**[Se forfatterens egen sommerfuglside ved å klikke her!](https://www.opplevsommerfugler.no/)**
 
 **Tittel:**...... Opplev og utforsk sommerfugler  
 **Forfatter:** Lars-Jørgen Natvik  
@@ -35,7 +35,7 @@ Alternativt kan du ringe eller sende sms til tlf. 911 89 016, eller send en epos
 ### Hva mener anmelderne
 
 > "Den instruktive teksten er hele tiden godt illustrert med gode tegninger og bilder."  
-> _john-Arvid Grytnes, professor ved Institutt for biologi, Universitetet i Bergen (anmeldelse i [Naturen_ nr. 2 2015](http://www.idunn.no/natur))\_
+> _john-Arvid Grytnes, professor ved Institutt for biologi, Universitetet i Bergen (anmeldelse i [Naturen_ nr. 2 2015](https://www.idunn.no/natur))\_
 
 > **En grundig, god og vakker bok.**  
 > _Les hele anmeldelsen av boka i Insekt-Nytt ved å [klikke her!](./Sommerfuglbokanmeldelse_Natvik_IN_38-4_RB2013.pdf)_
@@ -43,4 +43,4 @@ Alternativt kan du ringe eller sende sms til tlf. 911 89 016, eller send en epos
 > Jag rekommenderar boken varmt."  
 > _Les hele anmeldelsen av boka i Entomologisk Tidskrift ved å [klikke her!](./Elmqvist_recension_av_Natvik.pdf)_
 
-**Lærere anbefales å lese** [”Opplev vår fantastiske sommerfuglfauna – et naturfagsprosjekt”](http://www.idunn.no/ts/natur/2014/05/opplev_vaar_fantastiske_sommerfuglfauna_et_naturfagsprosje) i Naturen nr. 5 2014 _(Et sammendrag finnes [her](http://www.opplevsommerfugler.no/skoler/)_\*\*_)_
+**Lærere anbefales å lese** [”Opplev vår fantastiske sommerfuglfauna – et naturfagsprosjekt”](https://www.idunn.no/ts/natur/2014/05/opplev_vaar_fantastiske_sommerfuglfauna_et_naturfagsprosje) i Naturen nr. 5 2014 _(Et sammendrag finnes [her](https://www.opplevsommerfugler.no/skoler/)_\*\*_)_

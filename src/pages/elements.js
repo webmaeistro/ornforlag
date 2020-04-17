@@ -43,7 +43,7 @@ const ElementsPage = ({ data }, location) => {
             <code>
               for (;;) {"{"} ... {"}"}
             </code>
-            . Finally, this is a <a href="#">link</a>.
+            . Finally, this is a <a href="/#">link</a>.
           </p>
           <h2 id="heading-level-2">Heading Level 2</h2>
           <h3 id="heading-level-3">Heading Level 3</h3>
@@ -537,14 +537,14 @@ const indexQuery = graphql`
       relativePath: { eq: "fabio-comparelli-696506-unsplash.jpg" }
     ) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
+        fluid(maxWidth: 450) {
           ...GatsbyImageSharpFluid
         }
       }
     }
     medPic: file(relativePath: { eq: "sophia-valkova-30139-unsplash.jpg" }) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
+        fluid(maxWidth: 450) {
           ...GatsbyImageSharpFluid
         }
       }
@@ -553,7 +553,7 @@ const indexQuery = graphql`
       relativePath: { eq: "vladimir-malyutin-98174-unsplash.jpg" }
     ) {
       childImageSharp {
-        fluid(maxWidth: 1360) {
+        fluid(maxWidth: 450) {
           ...GatsbyImageSharpFluid
         }
       }

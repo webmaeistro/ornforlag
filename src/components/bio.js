@@ -25,11 +25,11 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              Et bokforlag av <strong>{author}</strong> som bor og lever i Oslo
+              området hvor han titter på mange fugler.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
+                Følg han på twitter
               </a>
             </p>
           </section>

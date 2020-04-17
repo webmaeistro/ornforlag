@@ -10,12 +10,12 @@ const Layout = props => {
         <div className="site-head-container">
           <a
             className="nav-burger"
-            href={`#`}
+            link={`#`}
             onClick={() => setToggleNav(!toggleNav)}
           >
             <div
               className="hamburger hamburger--collapse"
-              aria-label="Menu"
+              aria-label="Meny"
               role="button"
               aria-controls="navigation"
             >
@@ -79,12 +79,10 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Veståsen 4,1362 Hosle, Norway | Tel. (+47) 909 60 404 | Email:
-        bjorn[@]ornforlag.no | Organisasjonsnr.: 994304399 | MVA Kontonr.:
-        9235.27.10220 <br></br>
+        <br></br>
         Bygd av{" "}
         <a
-          href="https://github.com/ornforlag"
+          href="https://github.com/webmaeistro/"
           target="_blank"
           rel="noopener noreferrer"
         >

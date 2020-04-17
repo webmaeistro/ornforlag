@@ -9,7 +9,7 @@ description: Bjørn Ove Høyland
 
 Korrekt oppførsel og antrekk er viktig i selskapslivet, men du kan også trenge veiledning når du skal ut og se på fugler! Enten du er fersk som et nylagt egg, eller du allerede er en flyvedyktig fugleentusiast, vil du ved å følge tipsene og rådene i denne boken løfte fuglegleden din til nye høyder.
 
-![kikk og bruk](http://kikkogbruk.no/Kikk_og_bruk-Gleden.jpg)  
+![kikk og bruk](https://kikkogbruk.no/Kikk_og_bruk-Gleden.jpg)  
 Boken forteller bl.a. hvordan du:  
 • bruker kikkert og annet nødvendig utstyr  
 • finner fuglene • lager et fuglerikt fuglebrett  
@@ -17,7 +17,7 @@ Boken forteller bl.a. hvordan du:
 • artsbestemmer fugler  
 • lærer deg fuglelyder og fuglesang
 
-![kikk og bruk](http://kikkogbruk.no/Kikk_og_bruk_Fuglekasser5.jpg)
+![kikk og bruk](https://kikkogbruk.no/Kikk_og_bruk_Fuglekasser5.jpg)
 
 Og du får tips om opplevelser året rundt, som:  
 • vårens første trekkfugler  
@@ -27,7 +27,7 @@ Og du får tips om opplevelser året rundt, som:
 • havfuglspeiding i høststormen  
 • titusener av fugler som forlater oss før vinteren
 
-![kikk og bruk](http://kikkogbruk.no/Kikk_og_bruk-Utstyret.jpg)
+![kikk og bruk](https://kikkogbruk.no/Kikk_og_bruk-Utstyret.jpg)
 
 **Tittel:** Kikk og bruk - hvordan se på fugler
 **Forfattere:** Bjørn Ove Høyland og Bjørn Olav Tveit  
@@ -43,7 +43,7 @@ Du kan også kjøpe den i alle landets bokhandlere.
 ### Anmeldelser
 
 \_["NOFs landsdekkende medlemsblad Vår fuglefauna nr. 4 2014:  
-![Boka som slår klørne i deg og gir inspirasjonen vinger!](http://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)](http://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)
+![Boka som slår klørne i deg og gir inspirasjonen vinger!](https://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)](https://kikkogbruk.no/Anmeldelse_Kikk_og_bruk_Vaar_Fuglefauna.jpg)
 
 **"Vårens store begivenhet på bokfronten" - les anmeldelse av boka her:**  
 ![Vårens store begivenhet på bokfronten - anmeldelse](https://kikkogbruk.no/Anmeldelse_Kikk_og_bruk.jpg)[Vårens store begivenhet på bokfronten - anmeldelse](https://atgrims.blogspot.no/2014_05_01_archive.html)
@@ -52,4 +52,4 @@ Du kan også kjøpe den i alle landets bokhandlere.
 > _Rita Birkeland, fotograf_
 
 **Se TV-reportasje med forfatter Bjørn Olav Tveit på fugletur:**  
-![Forfatteren på TV8!](http://kikkogbruk.no/Kikk_og_bruk_TV8Norge.jpg)[Forfatteren på TV8!](http://www.tv8norge.no/Video/22406/2014/05/07/Bjørn-Olav-Tveit-lever-for-å-se-på-fugler)
+![Forfatteren på TV8!](https://kikkogbruk.no/Kikk_og_bruk_TV8Norge.jpg)[Forfatteren på TV8!](https://www.tv8norge.no/Video/22406/2014/05/07/Bjørn-Olav-Tveit-lever-for-å-se-på-fugler)

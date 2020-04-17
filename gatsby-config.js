@@ -33,10 +33,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1360,
+              maxWidth: 450,
               withWebp: true,
               showCaptions: true,
-              quality: 75,
+              quality: 70,
               wrapperStyle: `margin: 7vw 0;`,
             },
           },
@@ -79,7 +79,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `*`,
       },
     },
     `gatsby-plugin-feed`,

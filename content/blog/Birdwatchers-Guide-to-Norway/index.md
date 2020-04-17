@@ -17,7 +17,7 @@ description: Bjørn Olav Tveit
 **Illustrations:** Hundreds of pictures and maps in full colour  
 **Binding:** Softcover with flaps  
 **Price:** EUR 46  
-**Publisher:** Ørn forlag in cooperation with **[Din tur - Norway Nature Travel](http://www.bird.dintur.no/)**
+**Publisher:** Ørn forlag in cooperation with **[Din tur - Norway Nature Travel](https://www.bird.dintur.no/)**
 
 For the first time ever, here is a guide to the birdwatching sites of Norway, including the arctic archipelago of Svalbard (Spitsbergen). More than 350 sites are covered with detailed maps and descriptions on what to see, when to go and how to get there on your own. The book includes famous places such as Finnmark, Varanger, Pasvik, Lofoten, Utsira, Lista and Jæren, and shows you many of the best birds near cities such as Oslo, Bergen, Trondheim, Stavanger and Tromsø.
 

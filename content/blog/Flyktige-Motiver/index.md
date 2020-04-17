@@ -9,7 +9,7 @@ description: Christian Tiller
 
 ## Flyktige motiver - kunsten å fotografere fugler
 
-Her får du alle de praktiske triksene for å løfte bildene dine fra det ordinære til det spektakulære. Boka ble raskt utsolgt fra forlaget, men er fremdeles å få tak i bl.a. fra [Natur og fritid](http://www.naturogfritid.no/default.asp?VS=detalj&ID=800003)! Fugler er blant de mest krevende av alle motiver, og samtidig av de mest givende. Du kan ikke bare stole på utstyret, du må kjenne det ut og inn. Du må forstå lyset og hvordan du fanger det. Du må lese motivet og fryse øyeblikket - det rette øyeblikket. Mestrer du fuglefotografering, mestrer du det meste. Christian Tiller og Terje Kolaas har i mange år bergtatt oss med fuglebilder som går langt ut over det å avbilde fugler. De har dessuten årelang pedagogisk erfaring. I denne boka deler de uselvisk av sin kunnskap. Her får du, trinn for trinn, alle de praktiske triksene som skal til for at du skal løfte bildene dine fra det ordinære til det spektakulære.
+Her får du alle de praktiske triksene for å løfte bildene dine fra det ordinære til det spektakulære. Boka ble raskt utsolgt fra forlaget, men er fremdeles å få tak i bl.a. fra [Natur og fritid](https://www.naturogfritid.no/default.asp?VS=detalj&ID=800003)! Fugler er blant de mest krevende av alle motiver, og samtidig av de mest givende. Du kan ikke bare stole på utstyret, du må kjenne det ut og inn. Du må forstå lyset og hvordan du fanger det. Du må lese motivet og fryse øyeblikket - det rette øyeblikket. Mestrer du fuglefotografering, mestrer du det meste. Christian Tiller og Terje Kolaas har i mange år bergtatt oss med fuglebilder som går langt ut over det å avbilde fugler. De har dessuten årelang pedagogisk erfaring. I denne boka deler de uselvisk av sin kunnskap. Her får du, trinn for trinn, alle de praktiske triksene som skal til for at du skal løfte bildene dine fra det ordinære til det spektakulære.
 
 **Fra innholdet:**
 
@@ -40,4 +40,4 @@ Boka er illustrert med fantastiske bilder og pedagogiske illustrasjoner.
 **Pris:** 398,-  
 **Utgivelsesmåned:** September 2011
 
-[Sjekk også bokas egen blogg!](http://flyktigemotiver.blogspot.com/)
+[Sjekk også bokas egen blogg!](https://flyktigemotiver.blogspot.com/)

@@ -85,7 +85,7 @@ SEO.defaultProps = {
   lang: `nb`,
   meta: [],
   keywords: [],
-  description: `Ørn forlag as`,
+  description: `orn forlag as`,
 }
 
 SEO.propTypes = {

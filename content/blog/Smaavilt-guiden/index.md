@@ -27,9 +27,9 @@ Sammen har de laget en pedagogisk og lettfattelig guide til hvordan skille alle 
 **Pris:** kr 398,-  
 **Utgitt:** Høsten 2017
 
-**[Se det artige innslaget om Småviltguiden på TV2s _God morgen, Norge_!](http://www.tv2.no/v/1236888/)**<
+**[Se det artige innslaget om Småviltguiden på TV2s _God morgen, Norge_!](https://www.tv2.no/v/1236888/)**<
 
-[![sommerfugler](./large_smaaviltguiden_tv2_gmn_0.jpg)](http://www.tv2.no/v/1236888/)
+[![sommerfugler](./large_smaaviltguiden_tv2_gmn_0.jpg)](https://www.tv2.no/v/1236888/)
 
 **Hylles av Jegerforbundet!**  
 Norges Jeger- og Fiskerforbunds medlemsblad **Jakt & Fiske** omtaler Småviltguiden som en «særdeles grundig guide for småviltjegeren», med «detaljerte og naturtro tegninger og akvareller», der «også erfarne småviltjegere vil kunne lære noe nytt»!  

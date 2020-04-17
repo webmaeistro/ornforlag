@@ -35,7 +35,7 @@ I den nye 2. utgaven har forfatteren fulgt første utgave av boka, trinn for tr
 - Ordliste med forklaringer
 - Register
 
-Boka er illustrert med pedagogiske illustrasjoner og flotte bilder, tatt av [Kristin Syverud](http://www.syverudfoto.no/).  
+Boka er illustrert med pedagogiske illustrasjoner og flotte bilder, tatt av [Kristin Syverud](https://www.syverudfoto.no/).  
 ![Sy en bunad hjulet](./Hjulet.png)
 [center]
 **Tittel:** Sy en bunad - 2.utg.  

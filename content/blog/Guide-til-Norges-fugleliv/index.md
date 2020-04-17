@@ -5,7 +5,7 @@ thumbnail: ./guidetilnorges_omslag_littliten.jpg
 description: Bjørn Olav Tveit
 ---
 
-Denne kritikerroste boka ble raskt utsolgt fra forlaget, men er fremdeles å få tak i gjennom en del bokhandlere, deriblant [Natur og fritid](http://www.naturogfritid.no/default.asp?VS=detalj&refs=LISTE&ID=811016&&utnr=0&SOKG=ALLE&sql=tveit&Vtitle=Guide+til+Norges+fugleliv) **Den ventes utgitt i ny utgave våren 2018.**
+Denne kritikerroste boka ble raskt utsolgt fra forlaget, men er fremdeles å få tak i gjennom en del bokhandlere, deriblant [Natur og fritid](https://www.naturogfritid.no/default.asp?VS=detalj&refs=LISTE&ID=811016&&utnr=0&SOKG=ALLE&sql=tveit&Vtitle=Guide+til+Norges+fugleliv) **Den ventes utgitt i ny utgave våren 2018.**
 
 ## Om innholdet
 
@@ -57,4 +57,4 @@ Tekniske data
 
 #### Se forfatteren Bjørn Olav Tveit presentere Guide til Norges fugleliv
 
-[Se den på youtube her](http://www.youtube.com/embed/kd0mUtXGgeg?rel=0)
+[Se den på youtube her](https://www.youtube.com/embed/kd0mUtXGgeg?rel=0)
