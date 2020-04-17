@@ -15,7 +15,7 @@ const Layout = props => {
           >
             <div
               className="hamburger hamburger--collapse"
-              aria-label="Menu"
+              aria-labelledby="Menu"
               role="button"
               aria-controls="navigation"
             >
