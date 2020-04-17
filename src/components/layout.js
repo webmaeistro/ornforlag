@@ -15,7 +15,7 @@ const Layout = props => {
           >
             <div
               className="hamburger hamburger--collapse"
-              aria-label="Meny"
+              aria-label="Menu"
               role="button"
               aria-controls="navigation"
             >
@@ -73,7 +73,7 @@ const Layout = props => {
         </div>
       </header>
       <main id="site-main" className="site-main">
-        <div id="swup" className="transition-fade">
+        <div id="swup1" className="transition-fade">
           {children}
         </div>
       </main>
